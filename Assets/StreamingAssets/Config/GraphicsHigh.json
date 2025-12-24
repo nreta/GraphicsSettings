@@ -1,0 +1,21 @@
+{
+    "profileName": "High",
+    "qualityLevel": 2,
+    "pixelLightCount": 3,
+    "shadowResolution": 2, 
+    "shadowCascades": 2, 
+    "shadowProjection": 1, 
+    "antiAliasing": 4, 
+    "softParticles": true,
+    "shadowDistance": 75,
+    "shadowmaskMode": 1, 
+    "textureQuality": 1, 
+    "anisotropicFiltering": 2, 
+    "softVegetation": true,
+    "realtimeReflectionProbes": true,
+    "billboardsFaceCameraPosition": true,
+    "vSyncCount": 1, 
+    "asyncUploadTimeSlice": 8,
+    "asyncUploadBufferSize": 64,
+    "resolutionScalingFixedDPIFactor": 1.0
+}

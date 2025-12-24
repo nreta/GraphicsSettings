@@ -1,0 +1,22 @@
+{
+    "profileName": "Medium",
+    "qualityLevel": 1,
+    "pixelLightCount": 1,
+    "shadowResolution": 0, 
+    "shadowCascades": 1, 
+    "shadowProjection": 0, 
+    "antiAliasing": 0,
+    "softParticles": false,
+    "shadowDistance": 15,
+    "shadowmaskMode": 0, 
+    "lodBias": 0.4,
+    "textureQuality": 3, 
+    "anisotropicFiltering": 0, 
+    "softVegetation": false,
+    "realtimeReflectionProbes": false,
+    "billboardsFaceCameraPosition": false,
+    "vSyncCount": 0,
+    "asyncUploadTimeSlice": 2,
+    "asyncUploadBufferSize": 16,
+    "resolutionScalingFixedDPIFactor": 1.0
+}

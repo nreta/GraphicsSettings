@@ -1,0 +1,11 @@
+{
+    "profileName": "Ultra",
+    "qualityLevel": 3,
+    "pixelLightCount": 4,
+    "shadowResolution": 3,
+    "antiAliasing": 8,
+    "softParticles": true,
+    "shadowDistance": 150,
+    "lodBias": 1.0,
+    "textureQuality": 0
+}

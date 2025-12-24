@@ -1,0 +1,11 @@
+{
+    "profileName": "Low",
+    "qualityLevel": 0,
+    "pixelLightCount": 1,
+    "shadowResolution": 0,
+    "antiAliasing": 0,
+    "softParticles": false,
+    "shadowDistance": 20,
+    "lodBias": 0.5,
+    "textureQuality": 2
+}

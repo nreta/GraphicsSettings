@@ -1,0 +1,30 @@
+{
+    "profileName": "Low",
+    "qualityLevel": 0,
+
+    "pixelLightCount": 0,
+
+    "shadowResolution": 0,
+    "shadowCascades": 0,
+    "shadowProjection": 1,
+    "shadowDistance": 5,
+    "shadowmaskMode": 0,
+
+    "antiAliasing": 0,
+    "softParticles": false,
+    "softVegetation": false,
+
+    "lodBias": 0.2,
+    "textureQuality": 4,
+
+    "anisotropicFiltering": 0,
+    "realtimeReflectionProbes": false,
+    "billboardsFaceCameraPosition": false,
+
+    "vSyncCount": 0,
+
+    "asyncUploadTimeSlice": 1,
+    "asyncUploadBufferSize": 8,
+
+    "resolutionScalingFixedDPIFactor": 0.5
+}

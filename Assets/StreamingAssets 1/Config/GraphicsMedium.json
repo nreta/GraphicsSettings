@@ -1,0 +1,11 @@
+{
+    "profileName": "Medium",
+    "qualityLevel": 1,
+    "pixelLightCount": 2,
+    "shadowResolution": 1,
+    "antiAliasing": 2,
+    "softParticles": true,
+    "shadowDistance": 50,
+    "lodBias": 0.75,
+    "textureQuality": 1
+}

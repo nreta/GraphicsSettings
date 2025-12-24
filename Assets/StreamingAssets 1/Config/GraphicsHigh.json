@@ -1,0 +1,11 @@
+{
+    "profileName": "High",
+    "qualityLevel": 2,
+    "pixelLightCount": 4,
+    "shadowResolution": 2,
+    "antiAliasing": 4,
+    "softParticles": true,
+    "shadowDistance": 80,
+    "lodBias": 1.0,
+    "textureQuality": 0
+}
